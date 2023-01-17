@@ -3,9 +3,9 @@
 ## Cat Fighter <br />
 
   Practicing concepts of: <br />
-    1. AI enemies
-    2. Gravity physics
-    3. Collision Detection
-    4. Multiple outcomes
-    5. Sound effects
-    6. Frame animation
+    1. AI enemies <br />
+    2. Gravity physics <br />
+    3. Collision Detection <br />
+    4. Multiple outcomes <br />
+    5. Sound effects <br />
+    6. Frame animation <br />
